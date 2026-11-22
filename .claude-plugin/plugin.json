@@ -1,0 +1,13 @@
+{
+  "name": "marcelo-vignola-agent-resources",
+  "description": "Public portfolio discovery guidance and read-only browser skill for Marcelo Vignola's website.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Marcelo Vignola",
+    "url": "https://www.marcelovignola.com"
+  },
+  "homepage": "https://www.marcelovignola.com",
+  "repository": "https://github.com/srbunnie/marcelovignola-agent-resources",
+  "license": "CC-BY-4.0",
+  "keywords": ["portfolio", "agent-skills", "webmcp", "read-only"]
+}
